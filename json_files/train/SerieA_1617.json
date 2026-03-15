@@ -1,0 +1,3034 @@
+[
+    {
+        "DateUtc": "2016-08-20 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-08-20 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-08-21 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2016-08-21 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2016-08-21 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Crotone",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-08-21 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-08-21 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-08-21 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-08-21 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Sassuolo",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-08-21 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Pescara",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2016-08-27 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-08-27 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2016-08-28 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-08-28 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2016-08-28 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Crotone",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2016-08-28 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-08-28 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-08-28 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-08-28 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-09-10 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Sassuolo",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-09-10 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2016-09-11 12:30:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-09-11 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-09-11 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2016-09-11 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-09-11 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-09-11 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Pescara",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2016-09-12 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Crotone",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-09-16 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-09-17 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Pescara",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-09-17 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-09-18 12:30:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2016-09-18 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-09-18 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Crotone",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-09-18 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sassuolo",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-09-18 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-09-18 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-09-18 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-09-20 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-09-21 18:30:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-09-21 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Crotone",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-09-21 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-09-21 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Sassuolo",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-09-21 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2016-09-21 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-09-21 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-09-21 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Pescara",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-09-21 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2016-09-24 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-09-24 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-09-25 12:30:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-09-25 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Pescara",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-09-25 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-09-25 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-09-25 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sassuolo",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-09-25 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-09-26 18:59:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Crotone",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2016-09-26 21:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-10-01 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Pescara",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2016-10-01 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2016-10-02 12:30:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2016-10-02 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-10-02 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-10-02 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Crotone",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-10-02 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-10-02 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Sassuolo",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2016-10-02 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-10-02 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-10-15 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2016-10-15 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Pescara",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-10-15 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-10-16 12:30:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-10-16 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-10-16 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2016-10-16 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-10-16 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sassuolo",
+        "AwayTeam": "Crotone",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-10-16 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2016-10-17 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2016-10-22 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-10-22 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-10-23 12:30:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Pescara",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-10-23 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-10-23 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 5
+    },
+    {
+        "DateUtc": "2016-10-23 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Crotone",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2016-10-23 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-10-23 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2016-10-23 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Sassuolo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-10-23 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-10-25 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-10-26 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-10-26 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Crotone",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-10-26 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-10-26 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-10-26 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-10-26 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-10-26 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Pescara",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-10-26 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sassuolo",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2016-10-27 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2016-10-29 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-10-29 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-10-30 12:30:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-10-30 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Pescara",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-10-30 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Crotone",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-10-30 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-10-30 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Sassuolo",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-10-30 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-10-31 18:59:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2016-10-31 21:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-11-05 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-11-05 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-11-06 12:30:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Pescara",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2016-11-06 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2016-11-06 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-11-06 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2016-11-06 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sassuolo",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2016-11-06 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-11-06 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Crotone",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-11-06 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-11-19 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-11-19 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2016-11-19 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Pescara",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-11-20 12:30:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Sassuolo",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2016-11-20 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-11-20 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-11-20 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Crotone",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2016-11-20 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2016-11-20 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-11-20 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2016-11-26 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-11-26 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2016-11-27 12:30:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-11-27 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2016-11-27 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-11-27 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Crotone",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-11-27 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-11-27 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Pescara",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2016-11-28 18:59:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Sassuolo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-11-28 21:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2016-12-02 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-12-03 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-12-04 12:30:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Crotone",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-12-04 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2016-12-04 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Pescara",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-12-04 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-12-04 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sassuolo",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-12-04 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-12-05 18:59:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-12-05 21:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-12-10 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Crotone",
+        "AwayTeam": "Pescara",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-12-10 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2016-12-11 12:30:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 5
+    },
+    {
+        "DateUtc": "2016-12-11 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2016-12-11 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-12-11 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2016-12-11 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2016-12-11 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-12-12 18:59:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Sassuolo",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-12-12 21:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-12-15 20:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-12-17 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-12-17 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-12-17 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-12-18 12:30:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sassuolo",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-12-18 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-12-18 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2016-12-18 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Pescara",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2016-12-18 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Crotone",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-12-18 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2016-12-18 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-12-20 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-12-21 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-12-22 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-12-22 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Sassuolo",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2016-12-22 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2016-12-22 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Pescara",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2016-12-22 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2016-12-22 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-01-07 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-01-07 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-01-08 12:30:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-01-08 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2017-01-08 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-01-08 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Crotone",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-01-08 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sassuolo",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-01-08 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-01-08 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-01-14 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Crotone",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-01-14 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-01-15 12:30:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-01-15 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-01-15 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Pescara",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-01-15 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-01-15 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sassuolo",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-01-15 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-01-15 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-01-16 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-01-21 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2017-01-21 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-01-22 12:30:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-01-22 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-01-22 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-01-22 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Crotone",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-01-22 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-01-22 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Pescara",
+        "AwayTeam": "Sassuolo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2017-01-22 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-01-22 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-01-28 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-01-28 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Pescara",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-01-29 12:30:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-01-29 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-01-29 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Crotone",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-01-29 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2017-01-29 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-01-29 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sassuolo",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-01-29 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-01-29 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-02-01 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Pescara",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-02-04 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 7
+    },
+    {
+        "DateUtc": "2017-02-05 12:30:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-02-05 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-02-05 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-02-05 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-02-05 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Sassuolo",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-02-05 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Pescara",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 6
+    },
+    {
+        "DateUtc": "2017-02-05 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Crotone",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-02-05 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-02-07 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-02-08 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Crotone",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-02-08 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-02-10 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-02-11 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-02-12 12:30:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Crotone",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-02-12 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-02-12 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2017-02-12 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sassuolo",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2017-02-12 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Pescara",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2017-02-12 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-02-12 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-02-13 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-02-17 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-02-18 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Crotone",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-02-18 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-02-19 12:30:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-02-19 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2017-02-19 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Pescara",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-02-19 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-02-19 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Sassuolo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-02-19 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-02-19 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-02-25 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-02-25 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-02-26 12:30:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-02-26 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Pescara",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-02-26 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Crotone",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-02-26 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-02-26 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-02-26 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sassuolo",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-02-26 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2017-02-27 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-03-04 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-03-04 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Pescara",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-03-04 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-03-05 12:30:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-03-05 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 5
+    },
+    {
+        "DateUtc": "2017-03-05 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Crotone",
+        "AwayTeam": "Sassuolo",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-03-05 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-03-05 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-03-05 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-03-05 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-03-10 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-03-11 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-03-12 12:30:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sassuolo",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-03-12 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-03-12 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-03-12 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 7,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-03-12 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Crotone",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-03-12 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Pescara",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2017-03-12 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2017-03-13 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-03-18 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-03-18 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-03-19 12:30:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2017-03-19 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Pescara",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-03-19 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-03-19 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-03-19 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Crotone",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-03-19 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-03-19 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-03-19 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Sassuolo",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-04-01 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sassuolo",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-04-01 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-04-02 12:30:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-04-02 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Crotone",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-04-02 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-04-02 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 5
+    },
+    {
+        "DateUtc": "2017-04-02 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2017-04-02 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Pescara",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-04-02 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-04-03 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-04-08 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Pescara",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-04-08 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Sassuolo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-04-08 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-04-09 12:49:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-04-09 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-04-09 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2017-04-09 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2017-04-09 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Crotone",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-04-09 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-04-09 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2017-04-15 12:30:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-04-15 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-04-15 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-04-15 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-04-15 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-04-15 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-04-15 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Pescara",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-04-15 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Crotone",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-04-15 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sassuolo",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-04-15 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-04-22 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-04-22 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2017-04-23 12:30:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sassuolo",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-04-23 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-04-23 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2017-04-23 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 6,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-04-23 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Crotone",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-04-23 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-04-23 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-04-24 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Pescara",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2017-04-28 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-04-29 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-04-30 12:30:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2017-04-30 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-04-30 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Pescara",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-04-30 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Crotone",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-04-30 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Sassuolo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2017-04-30 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-04-30 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-04-30 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-05-06 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-05-06 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-05-07 12:30:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-05-07 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-05-07 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-05-07 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-05-07 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 7,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2017-05-07 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Pescara",
+        "AwayTeam": "Crotone",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-05-07 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sassuolo",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-05-07 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2017-05-13 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-05-13 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-05-14 12:30:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Sassuolo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-05-14 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Pescara",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-05-14 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-05-14 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Crotone",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-05-14 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-05-14 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-05-14 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 5
+    },
+    {
+        "DateUtc": "2017-05-14 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-05-20 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 5
+    },
+    {
+        "DateUtc": "2017-05-20 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-05-21 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-05-21 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-05-21 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-05-21 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Crotone",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-05-21 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sassuolo",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 6,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-05-21 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-05-21 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2017-05-22 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Pescara",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-05-27 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2017-05-27 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-05-28 15:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-05-28 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-05-28 18:00:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2017-05-28 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Crotone",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-05-28 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Pescara",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-05-28 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2017-05-28 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2017-05-28 20:45:00Z",
+        "Location": "Italy",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Sassuolo",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 3
+    }
+]
