@@ -1,0 +1,2662 @@
+[
+    {
+        "DateUtc": "2008-08-30 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-08-30 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-08-31 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-08-31 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2008-08-31 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-08-31 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-08-31 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-08-31 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2008-08-31 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-08-31 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-09-13 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-09-13 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-09-14 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-09-14 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-09-14 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-09-14 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-09-14 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-09-14 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-09-14 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-09-14 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-09-20 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-09-20 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-09-21 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-09-21 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-09-21 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-09-21 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-09-21 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-09-21 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-09-21 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2008-09-21 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-09-24 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-09-24 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2008-09-24 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-09-24 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-09-24 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-09-24 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-09-24 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-09-24 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-09-24 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2008-09-24 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-09-27 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-09-27 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-09-28 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-09-28 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-09-28 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-09-28 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-09-28 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-09-28 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-09-28 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2008-09-28 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-04-10 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-04-10 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-05-10 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2008-05-10 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-05-10 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2008-05-10 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2008-05-10 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2008-05-10 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-05-10 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-05-10 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-10-18 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-10-18 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-10-19 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-10-19 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-10-19 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-10-19 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-10-19 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2008-10-19 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-10-19 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2008-10-19 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-10-25 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-10-25 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-10-26 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-10-26 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-10-26 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-10-26 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-10-26 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2008-10-26 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-10-26 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-10-26 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-10-29 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2008-10-29 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2008-10-29 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2008-10-29 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-10-29 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-10-29 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-10-29 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-10-29 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-10-29 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-01-11 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-01-11 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2008-02-11 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-02-11 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-02-11 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-02-11 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-02-11 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-02-11 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-02-11 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-02-11 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2008-08-11 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-08-11 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-09-11 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-09-11 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2008-09-11 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-09-11 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-09-11 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-09-11 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-09-11 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-09-11 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-11-13 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-11-15 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2008-11-16 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-11-16 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-11-16 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2008-11-16 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-11-16 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-11-16 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2008-11-16 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-11-16 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-11-22 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2008-11-22 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-11-23 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-11-23 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2008-11-23 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-11-23 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2008-11-23 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2008-11-23 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-11-23 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-11-23 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2008-11-29 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-11-29 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-11-30 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-11-30 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-11-30 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-11-30 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-11-30 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-11-30 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-11-30 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-11-30 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-06-12 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-06-12 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2008-07-12 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-07-12 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-07-12 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2008-07-12 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-07-12 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-07-12 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2008-07-12 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-07-12 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2008-12-13 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2008-12-13 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-12-14 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-12-14 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-12-14 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2008-12-14 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2008-12-14 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-12-14 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2008-12-14 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2008-12-14 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2008-12-20 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-12-20 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2008-12-21 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2008-12-21 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-12-21 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2008-12-21 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-12-21 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2008-12-21 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-12-21 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2008-12-21 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-10-01 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-10-01 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-11-01 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-11-01 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-11-01 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-11-01 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-11-01 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-11-01 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2009-11-01 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-11-01 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-01-14 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-01-17 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-01-17 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-01-18 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-01-18 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-01-18 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-01-18 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-01-18 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-01-18 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-01-18 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-01-18 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-01-24 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-01-24 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-01-25 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2009-01-25 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-01-25 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-01-25 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2009-01-25 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2009-01-25 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2009-01-25 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-01-25 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-01-28 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-01-28 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-01-28 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-01-28 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-01-28 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-01-28 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-01-28 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-01-28 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-01-28 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-01-28 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-01-31 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2009-01-31 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-01-02 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-01-02 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-01-02 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-01-02 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-01-02 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2009-01-02 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-01-02 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-02-02 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2009-07-02 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2009-07-02 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-08-02 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-08-02 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-08-02 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-08-02 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-08-02 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-08-02 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-08-02 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-08-02 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-02-14 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-02-14 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-02-15 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-02-15 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-02-15 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-02-15 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2009-02-15 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-02-15 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-02-15 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-02-15 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-02-21 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-02-21 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-02-21 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-02-22 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-02-22 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-02-22 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-02-22 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-02-22 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-02-22 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-02-22 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-02-28 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-02-28 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-01-03 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-01-03 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-01-03 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2009-01-03 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2009-01-03 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-01-03 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-01-03 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-01-03 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-07-03 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-07-03 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-07-03 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-08-03 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-08-03 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2009-08-03 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-08-03 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-08-03 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-08-03 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-08-03 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-03-14 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-03-14 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-03-15 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-03-15 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-03-15 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2009-03-15 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-03-15 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-03-15 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-03-15 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 5
+    },
+    {
+        "DateUtc": "2009-03-15 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-03-21 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-03-21 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2009-03-22 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-03-22 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-03-22 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-03-22 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-03-22 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-03-22 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-03-22 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-03-22 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2009-05-04 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-05-04 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-05-04 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2009-05-04 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-05-04 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-05-04 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-05-04 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-05-04 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-05-04 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-05-04 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-11-04 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2009-11-04 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-11-04 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-11-04 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-11-04 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-11-04 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-11-04 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2009-11-04 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-11-04 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-12-04 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-04-18 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-04-18 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-04-19 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-04-19 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-04-19 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-04-19 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-04-19 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-04-19 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-04-19 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-04-19 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-04-25 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-04-25 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-04-26 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-04-26 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-04-26 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-04-26 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-04-26 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-04-26 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-04-26 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2009-04-26 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-02-05 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-02-05 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-03-05 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-03-05 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-03-05 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-03-05 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-03-05 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-03-05 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-03-05 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-03-05 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-09-05 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2009-09-05 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-10-05 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-10-05 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-10-05 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-10-05 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-10-05 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-10-05 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-10-05 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-10-05 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-05-16 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2009-05-16 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-05-17 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-05-17 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-05-17 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-05-17 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-05-17 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-05-17 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-05-17 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-05-17 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-05-20 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-05-24 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-05-24 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-05-24 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-05-24 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-05-24 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-05-24 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2009-05-24 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-05-24 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2009-05-24 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2009-05-31 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-05-31 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-05-31 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-05-31 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2009-05-31 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-05-31 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2009-05-31 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-05-31 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2009-05-31 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2009-05-31 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 6,
+        "AwayTeamScore": 2
+    }
+]

@@ -1,0 +1,2144 @@
+[
+    {
+        "DateUtc": "1998-12-09 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-12-09 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-12-09 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Vicenza",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-12-09 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Salernitana",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-12-09 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1998-09-13 00:00:00Z",
+        "HomeTeam": "Bari",
+        "AwayTeam": "Venezia",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-09-13 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1998-09-13 00:00:00Z",
+        "HomeTeam": "Perugia",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "1998-09-13 00:00:00Z",
+        "HomeTeam": "Piacenza",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-09-20 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "1998-09-20 00:00:00Z",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-09-20 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Piacenza",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-09-20 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-09-20 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Bari",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-09-20 00:00:00Z",
+        "HomeTeam": "Salernitana",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1998-09-20 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Perugia",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-09-20 00:00:00Z",
+        "HomeTeam": "Venezia",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-09-20 00:00:00Z",
+        "HomeTeam": "Vicenza",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1998-09-26 00:00:00Z",
+        "HomeTeam": "Bari",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-09-26 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "1998-09-26 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-09-26 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Venezia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-09-26 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Salernitana",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-09-27 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-09-27 00:00:00Z",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1998-09-27 00:00:00Z",
+        "HomeTeam": "Perugia",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1998-09-27 00:00:00Z",
+        "HomeTeam": "Piacenza",
+        "AwayTeam": "Vicenza",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-04-10 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-04-10 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-04-10 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Perugia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-04-10 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Piacenza",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-04-10 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-04-10 00:00:00Z",
+        "HomeTeam": "Salernitana",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-04-10 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-04-10 00:00:00Z",
+        "HomeTeam": "Venezia",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1998-04-10 00:00:00Z",
+        "HomeTeam": "Vicenza",
+        "AwayTeam": "Bari",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-10-17 00:00:00Z",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-10-17 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Salernitana",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-10-17 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-10-18 00:00:00Z",
+        "HomeTeam": "Bari",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-10-18 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-10-18 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 5
+    },
+    {
+        "DateUtc": "1998-10-18 00:00:00Z",
+        "HomeTeam": "Perugia",
+        "AwayTeam": "Venezia",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-10-18 00:00:00Z",
+        "HomeTeam": "Piacenza",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-10-18 00:00:00Z",
+        "HomeTeam": "Vicenza",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-10-25 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Piacenza",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-10-25 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Bari",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "1998-10-25 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Salernitana",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-10-25 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-10-25 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Vicenza",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-10-25 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1998-10-25 00:00:00Z",
+        "HomeTeam": "Perugia",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-10-25 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-10-25 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Venezia",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-10-31 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-10-31 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-10-31 00:00:00Z",
+        "HomeTeam": "Venezia",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1998-01-11 00:00:00Z",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Perugia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-01-11 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Bari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "1998-01-11 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-01-11 00:00:00Z",
+        "HomeTeam": "Piacenza",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-01-11 00:00:00Z",
+        "HomeTeam": "Salernitana",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-01-11 00:00:00Z",
+        "HomeTeam": "Vicenza",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-08-11 00:00:00Z",
+        "HomeTeam": "Bari",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-08-11 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-08-11 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Piacenza",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1998-08-11 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Venezia",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-08-11 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-08-11 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1998-08-11 00:00:00Z",
+        "HomeTeam": "Perugia",
+        "AwayTeam": "Vicenza",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-08-11 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Salernitana",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-08-11 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1998-11-15 00:00:00Z",
+        "HomeTeam": "Bari",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-11-15 00:00:00Z",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-11-15 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-11-15 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-11-15 00:00:00Z",
+        "HomeTeam": "Piacenza",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1998-11-15 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-11-15 00:00:00Z",
+        "HomeTeam": "Salernitana",
+        "AwayTeam": "Perugia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-11-15 00:00:00Z",
+        "HomeTeam": "Venezia",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-11-15 00:00:00Z",
+        "HomeTeam": "Vicenza",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "1998-11-21 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Perugia",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-11-21 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-11-21 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Bari",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-11-22 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-11-22 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-11-22 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-11-22 00:00:00Z",
+        "HomeTeam": "Salernitana",
+        "AwayTeam": "Venezia",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-11-22 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Vicenza",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-11-22 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Piacenza",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-11-29 00:00:00Z",
+        "HomeTeam": "Bari",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-11-29 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-11-29 00:00:00Z",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Vicenza",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-11-29 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Salernitana",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-11-29 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "1998-11-29 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-11-29 00:00:00Z",
+        "HomeTeam": "Perugia",
+        "AwayTeam": "Piacenza",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-11-29 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-11-29 00:00:00Z",
+        "HomeTeam": "Venezia",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-05-12 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-05-12 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Perugia",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-05-12 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1998-06-12 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Venezia",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-06-12 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-06-12 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-06-12 00:00:00Z",
+        "HomeTeam": "Piacenza",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-06-12 00:00:00Z",
+        "HomeTeam": "Salernitana",
+        "AwayTeam": "Bari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1998-06-12 00:00:00Z",
+        "HomeTeam": "Vicenza",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-12-13 00:00:00Z",
+        "HomeTeam": "Bari",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-12-13 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Salernitana",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-12-13 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-12-13 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1998-12-13 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Vicenza",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-12-13 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-12-13 00:00:00Z",
+        "HomeTeam": "Perugia",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-12-13 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-12-13 00:00:00Z",
+        "HomeTeam": "Venezia",
+        "AwayTeam": "Piacenza",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-12-20 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-12-20 00:00:00Z",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 5
+    },
+    {
+        "DateUtc": "1998-12-20 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-12-20 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Salernitana",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1998-12-20 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1998-12-20 00:00:00Z",
+        "HomeTeam": "Perugia",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1998-12-20 00:00:00Z",
+        "HomeTeam": "Piacenza",
+        "AwayTeam": "Bari",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1998-12-20 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1998-12-20 00:00:00Z",
+        "HomeTeam": "Vicenza",
+        "AwayTeam": "Venezia",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-06-01 00:00:00Z",
+        "HomeTeam": "Bari",
+        "AwayTeam": "Perugia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-06-01 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-06-01 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-06-01 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-06-01 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-06-01 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Piacenza",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1999-06-01 00:00:00Z",
+        "HomeTeam": "Salernitana",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "1999-06-01 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Vicenza",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-10-01 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "1999-10-01 00:00:00Z",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-10-01 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Venezia",
+        "HomeTeamScore": 6,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1999-10-01 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Bari",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-10-01 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-10-01 00:00:00Z",
+        "HomeTeam": "Perugia",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "1999-10-01 00:00:00Z",
+        "HomeTeam": "Piacenza",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 6
+    },
+    {
+        "DateUtc": "1999-10-01 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-10-01 00:00:00Z",
+        "HomeTeam": "Vicenza",
+        "AwayTeam": "Salernitana",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-01-17 00:00:00Z",
+        "HomeTeam": "Bari",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-01-17 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-01-17 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1999-01-17 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Perugia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-01-17 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "1999-01-17 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Vicenza",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-01-17 00:00:00Z",
+        "HomeTeam": "Salernitana",
+        "AwayTeam": "Piacenza",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-01-17 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-01-17 00:00:00Z",
+        "HomeTeam": "Venezia",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-01-20 00:00:00Z",
+        "HomeTeam": "Venezia",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1999-01-24 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "1999-01-24 00:00:00Z",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "1999-01-24 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-01-24 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Perugia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-01-24 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Piacenza",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-01-24 00:00:00Z",
+        "HomeTeam": "Salernitana",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-01-24 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-01-24 00:00:00Z",
+        "HomeTeam": "Venezia",
+        "AwayTeam": "Bari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-01-24 00:00:00Z",
+        "HomeTeam": "Vicenza",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-01-31 00:00:00Z",
+        "HomeTeam": "Bari",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "1999-01-31 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-01-31 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Vicenza",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-01-31 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Salernitana",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1999-01-31 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Venezia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1999-01-31 00:00:00Z",
+        "HomeTeam": "Perugia",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-01-31 00:00:00Z",
+        "HomeTeam": "Piacenza",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-01-31 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-01-31 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-07-02 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Bari",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-07-02 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-07-02 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-07-02 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "1999-07-02 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Perugia",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-07-02 00:00:00Z",
+        "HomeTeam": "Salernitana",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1999-07-02 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-07-02 00:00:00Z",
+        "HomeTeam": "Venezia",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-07-02 00:00:00Z",
+        "HomeTeam": "Vicenza",
+        "AwayTeam": "Piacenza",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-02-14 00:00:00Z",
+        "HomeTeam": "Bari",
+        "AwayTeam": "Vicenza",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-02-14 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-02-14 00:00:00Z",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Salernitana",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "1999-02-14 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Venezia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-02-14 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-02-14 00:00:00Z",
+        "HomeTeam": "Perugia",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-02-14 00:00:00Z",
+        "HomeTeam": "Piacenza",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1999-02-14 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-02-14 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-02-21 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-02-21 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-02-21 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Vicenza",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-02-21 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-02-21 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-02-21 00:00:00Z",
+        "HomeTeam": "Salernitana",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1999-02-21 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Piacenza",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1999-02-21 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Bari",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-02-21 00:00:00Z",
+        "HomeTeam": "Venezia",
+        "AwayTeam": "Perugia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-02-27 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-02-27 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Perugia",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-02-27 00:00:00Z",
+        "HomeTeam": "Piacenza",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-02-27 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-02-28 00:00:00Z",
+        "HomeTeam": "Bari",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-02-28 00:00:00Z",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-02-28 00:00:00Z",
+        "HomeTeam": "Salernitana",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-02-28 00:00:00Z",
+        "HomeTeam": "Venezia",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-02-28 00:00:00Z",
+        "HomeTeam": "Vicenza",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1999-07-03 00:00:00Z",
+        "HomeTeam": "Bari",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-07-03 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Venezia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-07-03 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Vicenza",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-07-03 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-07-03 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Salernitana",
+        "HomeTeamScore": 6,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-07-03 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Piacenza",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-07-03 00:00:00Z",
+        "HomeTeam": "Perugia",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-07-03 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1999-07-03 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-03-13 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1999-03-13 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-03-13 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Bari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-03-13 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-03-14 00:00:00Z",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-03-14 00:00:00Z",
+        "HomeTeam": "Piacenza",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-03-14 00:00:00Z",
+        "HomeTeam": "Salernitana",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-03-14 00:00:00Z",
+        "HomeTeam": "Venezia",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-03-14 00:00:00Z",
+        "HomeTeam": "Vicenza",
+        "AwayTeam": "Perugia",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-03-21 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Vicenza",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1999-03-21 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-03-21 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Piacenza",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-03-21 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-03-21 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Venezia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-03-21 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Bari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1999-03-21 00:00:00Z",
+        "HomeTeam": "Perugia",
+        "AwayTeam": "Salernitana",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-03-21 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-03-21 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-03-04 00:00:00Z",
+        "HomeTeam": "Bari",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "1999-03-04 00:00:00Z",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-03-04 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-03-04 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-03-04 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-03-04 00:00:00Z",
+        "HomeTeam": "Perugia",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-03-04 00:00:00Z",
+        "HomeTeam": "Piacenza",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "1999-03-04 00:00:00Z",
+        "HomeTeam": "Venezia",
+        "AwayTeam": "Salernitana",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-03-04 00:00:00Z",
+        "HomeTeam": "Vicenza",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-11-04 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1999-11-04 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Bari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1999-11-04 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1999-11-04 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-11-04 00:00:00Z",
+        "HomeTeam": "Piacenza",
+        "AwayTeam": "Perugia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-11-04 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-11-04 00:00:00Z",
+        "HomeTeam": "Salernitana",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-11-04 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Venezia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-11-04 00:00:00Z",
+        "HomeTeam": "Vicenza",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-04-17 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-04-17 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "1999-04-17 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-04-18 00:00:00Z",
+        "HomeTeam": "Bari",
+        "AwayTeam": "Salernitana",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-04-18 00:00:00Z",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Piacenza",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1999-04-18 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Vicenza",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-04-18 00:00:00Z",
+        "HomeTeam": "Perugia",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1999-04-18 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 5
+    },
+    {
+        "DateUtc": "1999-04-18 00:00:00Z",
+        "HomeTeam": "Venezia",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-04-25 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Perugia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1999-04-25 00:00:00Z",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Bari",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1999-04-25 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "1999-04-25 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-04-25 00:00:00Z",
+        "HomeTeam": "Piacenza",
+        "AwayTeam": "Venezia",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-04-25 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-04-25 00:00:00Z",
+        "HomeTeam": "Salernitana",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-04-25 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-04-25 00:00:00Z",
+        "HomeTeam": "Vicenza",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1999-02-05 00:00:00Z",
+        "HomeTeam": "Bari",
+        "AwayTeam": "Piacenza",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-02-05 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "1999-02-05 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Perugia",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-02-05 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1999-02-05 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-02-05 00:00:00Z",
+        "HomeTeam": "Salernitana",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-02-05 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "1999-02-05 00:00:00Z",
+        "HomeTeam": "Venezia",
+        "AwayTeam": "Vicenza",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1999-03-05 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 5
+    },
+    {
+        "DateUtc": "1999-08-05 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "1999-09-05 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Salernitana",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-09-05 00:00:00Z",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Venezia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1999-09-05 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1999-09-05 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-09-05 00:00:00Z",
+        "HomeTeam": "Perugia",
+        "AwayTeam": "Bari",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-09-05 00:00:00Z",
+        "HomeTeam": "Piacenza",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-09-05 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1999-09-05 00:00:00Z",
+        "HomeTeam": "Vicenza",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "1999-05-15 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-05-15 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Empoli",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-05-16 00:00:00Z",
+        "HomeTeam": "Bari",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-05-16 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1999-05-16 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Piacenza",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-05-16 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-05-16 00:00:00Z",
+        "HomeTeam": "Salernitana",
+        "AwayTeam": "Vicenza",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-05-16 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Perugia",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1999-05-16 00:00:00Z",
+        "HomeTeam": "Venezia",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-05-23 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-05-23 00:00:00Z",
+        "HomeTeam": "Empoli",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "1999-05-23 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-05-23 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Venezia",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1999-05-23 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-05-23 00:00:00Z",
+        "HomeTeam": "Perugia",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "1999-05-23 00:00:00Z",
+        "HomeTeam": "Piacenza",
+        "AwayTeam": "Salernitana",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "1999-05-23 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Bari",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "1999-05-23 00:00:00Z",
+        "HomeTeam": "Vicenza",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 4
+    }
+]

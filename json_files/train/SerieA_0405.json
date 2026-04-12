@@ -1,0 +1,2662 @@
+[
+    {
+        "DateUtc": "2004-11-09 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2004-11-09 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Livorno",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2004-12-09 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2004-12-09 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2004-12-09 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-12-09 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-12-09 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Messina",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-12-09 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-12-09 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-12-09 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-09-18 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-09-18 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-09-19 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2004-09-19 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-09-19 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-09-19 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-09-19 00:00:00Z",
+        "HomeTeam": "Livorno",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2004-09-19 00:00:00Z",
+        "HomeTeam": "Messina",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2004-09-19 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-09-19 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-09-22 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2004-09-22 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2004-09-22 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-09-22 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-09-22 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Messina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2004-09-22 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-09-22 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2004-09-22 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Livorno",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-09-22 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2004-09-22 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2004-09-25 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-09-25 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-09-26 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2004-09-26 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2004-09-26 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2004-09-26 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-09-26 00:00:00Z",
+        "HomeTeam": "Livorno",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-09-26 00:00:00Z",
+        "HomeTeam": "Messina",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-09-26 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-09-26 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2004-02-10 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-02-10 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-03-10 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-03-10 00:00:00Z",
+        "HomeTeam": "Messina",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-03-10 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-03-10 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-03-10 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-03-10 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2004-03-10 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Livorno",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-03-10 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-10-16 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Messina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-10-16 00:00:00Z",
+        "HomeTeam": "Livorno",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2004-10-17 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-10-17 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-10-17 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-10-17 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-10-17 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-10-17 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-10-17 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-10-17 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-10-23 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2004-10-23 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2004-10-24 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-10-24 00:00:00Z",
+        "HomeTeam": "Livorno",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-10-24 00:00:00Z",
+        "HomeTeam": "Messina",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2004-10-24 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-10-24 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-10-24 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-10-24 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-10-24 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2004-10-27 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-10-27 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-10-27 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-10-27 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2004-10-27 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Messina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-10-27 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2004-10-27 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-10-27 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Livorno",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2004-10-27 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2004-10-28 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-10-30 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-10-30 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-10-31 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-10-31 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-10-31 00:00:00Z",
+        "HomeTeam": "Livorno",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-10-31 00:00:00Z",
+        "HomeTeam": "Messina",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-10-31 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2004-10-31 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-10-31 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-10-31 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-06-11 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-06-11 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-07-11 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-07-11 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Messina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2004-07-11 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Livorno",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-07-11 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-07-11 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-07-11 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2004-07-11 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-07-11 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-10-11 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-10-11 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-10-11 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2004-10-11 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-10-11 00:00:00Z",
+        "HomeTeam": "Livorno",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-10-11 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-10-11 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2004-10-11 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-10-11 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-11-11 00:00:00Z",
+        "HomeTeam": "Messina",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-11-14 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-11-14 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2004-11-14 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Livorno",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-11-14 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-11-14 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-11-14 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-11-14 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-11-14 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2004-11-14 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-11-14 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Messina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-11-27 00:00:00Z",
+        "HomeTeam": "Livorno",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2004-11-27 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2004-11-28 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-11-28 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-11-28 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2004-11-28 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-11-28 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2004-11-28 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2004-11-28 00:00:00Z",
+        "HomeTeam": "Messina",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-11-28 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-04-12 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Messina",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-04-12 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2004-05-12 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2004-05-12 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-05-12 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-05-12 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Livorno",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2004-05-12 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-05-12 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2004-05-12 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-05-12 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-11-12 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-11-12 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2004-12-12 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-12-12 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-12-12 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-12-12 00:00:00Z",
+        "HomeTeam": "Livorno",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-12-12 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 6,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-12-12 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2004-12-12 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Messina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-12-12 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2004-12-18 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-12-19 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-12-19 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-12-19 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-12-19 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2004-12-19 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2004-12-19 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-12-19 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Livorno",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2004-12-19 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-06-01 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-06-01 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-06-01 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Messina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-06-01 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2005-06-01 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-06-01 00:00:00Z",
+        "HomeTeam": "Livorno",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-06-01 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-06-01 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-06-01 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-06-01 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-09-01 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-09-01 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2005-09-01 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-09-01 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Livorno",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-09-01 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-09-01 00:00:00Z",
+        "HomeTeam": "Messina",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-09-01 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-09-01 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-09-01 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-09-01 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-01-15 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-01-15 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-01-16 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-01-16 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-01-16 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-01-16 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2005-01-16 00:00:00Z",
+        "HomeTeam": "Livorno",
+        "AwayTeam": "Messina",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-01-16 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-01-16 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-01-16 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-01-19 00:00:00Z",
+        "HomeTeam": "Messina",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-01-22 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-01-22 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-01-23 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-01-23 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-01-23 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-01-23 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-01-23 00:00:00Z",
+        "HomeTeam": "Livorno",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-01-23 00:00:00Z",
+        "HomeTeam": "Messina",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-01-23 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-01-23 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-01-29 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Livorno",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-01-29 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-01-30 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-01-30 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-01-30 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-01-30 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-01-30 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-01-30 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-01-30 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Messina",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-01-30 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-02-02 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-02-02 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-02-02 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-02-02 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-02-02 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-02-02 00:00:00Z",
+        "HomeTeam": "Livorno",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-02-02 00:00:00Z",
+        "HomeTeam": "Messina",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2005-02-02 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-02-02 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-03-02 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-05-02 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-05-02 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-06-02 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Livorno",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-06-02 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-06-02 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-06-02 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Messina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-06-02 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-06-02 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-06-02 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2005-06-02 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-12-02 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-12-02 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-02-13 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-02-13 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-02-13 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-02-13 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-02-13 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-02-13 00:00:00Z",
+        "HomeTeam": "Livorno",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-02-13 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-02-13 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Messina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-02-19 00:00:00Z",
+        "HomeTeam": "Messina",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-02-19 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-02-19 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-02-20 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-02-20 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-02-20 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-02-20 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-02-20 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Livorno",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-02-20 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-02-20 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-02-26 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-02-26 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-02-27 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Livorno",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-02-27 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2005-02-27 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-02-27 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-02-27 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-02-27 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Messina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-02-27 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-02-27 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-05-03 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-05-03 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-06-03 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-06-03 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-06-03 00:00:00Z",
+        "HomeTeam": "Livorno",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-06-03 00:00:00Z",
+        "HomeTeam": "Messina",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-06-03 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-06-03 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-06-03 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2005-06-03 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-12-03 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-12-03 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-03-13 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-03-13 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-03-13 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Livorno",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2005-03-13 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-03-13 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-03-13 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-03-13 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 5
+    },
+    {
+        "DateUtc": "2005-03-13 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Messina",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-03-19 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-03-19 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-03-20 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-03-20 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-03-20 00:00:00Z",
+        "HomeTeam": "Livorno",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2005-03-20 00:00:00Z",
+        "HomeTeam": "Messina",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-03-20 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2005-03-20 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-03-20 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-03-20 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-09-04 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-09-04 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2005-09-04 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-10-04 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-10-04 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-10-04 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Livorno",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-10-04 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-10-04 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Messina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-10-04 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2005-10-04 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2005-04-16 00:00:00Z",
+        "HomeTeam": "Messina",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-04-16 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-04-16 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-04-17 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-04-17 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-04-17 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-04-17 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-04-17 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-04-17 00:00:00Z",
+        "HomeTeam": "Livorno",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-04-17 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-04-20 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-04-20 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Messina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-04-20 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-04-20 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-04-20 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-04-20 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2005-04-20 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-04-20 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-04-20 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-04-20 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Livorno",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-04-23 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-04-23 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2005-04-24 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-04-24 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-04-24 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-04-24 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-04-24 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-04-24 00:00:00Z",
+        "HomeTeam": "Livorno",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-04-24 00:00:00Z",
+        "HomeTeam": "Messina",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-04-24 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-04-30 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-04-30 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-01-05 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-01-05 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-01-05 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2005-01-05 00:00:00Z",
+        "HomeTeam": "Messina",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-01-05 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-01-05 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Livorno",
+        "HomeTeamScore": 6,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2005-01-05 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-01-05 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-08-05 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Messina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-08-05 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2005-08-05 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-08-05 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-08-05 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-08-05 00:00:00Z",
+        "HomeTeam": "Livorno",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 6
+    },
+    {
+        "DateUtc": "2005-08-05 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-08-05 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-08-05 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-08-05 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-05-15 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-05-15 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-05-15 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Livorno",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-05-15 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-05-15 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-05-15 00:00:00Z",
+        "HomeTeam": "Messina",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-05-15 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-05-15 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-05-15 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-05-15 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-05-20 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2005-05-22 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-05-22 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Messina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-05-22 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-05-22 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-05-22 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-05-22 00:00:00Z",
+        "HomeTeam": "Livorno",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-05-22 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-05-22 00:00:00Z",
+        "HomeTeam": "Reggina",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-05-22 00:00:00Z",
+        "HomeTeam": "Sampdoria",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-05-29 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Sampdoria",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-05-29 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-05-29 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Reggina",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-05-29 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2005-05-29 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2005-05-29 00:00:00Z",
+        "HomeTeam": "Messina",
+        "AwayTeam": "Livorno",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-05-29 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2005-05-29 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2005-05-29 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2005-05-29 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    }
+]

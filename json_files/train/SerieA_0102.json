@@ -1,0 +1,2144 @@
+[
+    {
+        "DateUtc": "2001-08-25 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-08-26 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2001-08-26 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2001-08-26 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Perugia",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-08-26 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Venezia",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-08-26 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Piacenza",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-08-26 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-08-26 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2001-08-26 00:00:00Z",
+        "HomeTeam": "Hellas Verona",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-08-09 00:00:00Z",
+        "HomeTeam": "Perugia",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-08-09 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-09-09 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2001-09-09 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-09-09 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2001-09-09 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2001-09-09 00:00:00Z",
+        "HomeTeam": "Piacenza",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2001-09-09 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2001-09-09 00:00:00Z",
+        "HomeTeam": "Venezia",
+        "AwayTeam": "Hellas Verona",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-09-15 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2001-09-16 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-09-16 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-09-16 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-09-16 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Venezia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-09-16 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-09-16 00:00:00Z",
+        "HomeTeam": "Piacenza",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-09-16 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2001-09-16 00:00:00Z",
+        "HomeTeam": "Hellas Verona",
+        "AwayTeam": "Perugia",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-09-22 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-09-23 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Hellas Verona",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-09-23 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Piacenza",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2001-09-23 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-09-23 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-09-23 00:00:00Z",
+        "HomeTeam": "Perugia",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2001-09-23 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-09-23 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-09-23 00:00:00Z",
+        "HomeTeam": "Venezia",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-09-29 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2001-09-30 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2001-09-30 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Venezia",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-09-30 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-09-30 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-09-30 00:00:00Z",
+        "HomeTeam": "Perugia",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-09-30 00:00:00Z",
+        "HomeTeam": "Piacenza",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-09-30 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2001-09-30 00:00:00Z",
+        "HomeTeam": "Hellas Verona",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-10-13 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-10-13 00:00:00Z",
+        "HomeTeam": "Perugia",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-10-14 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2001-10-14 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2001-10-14 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-10-14 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Venezia",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-10-14 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Piacenza",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2001-10-14 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-10-14 00:00:00Z",
+        "HomeTeam": "Hellas Verona",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-10-20 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-10-21 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 5
+    },
+    {
+        "DateUtc": "2001-10-21 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-10-21 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Hellas Verona",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2001-10-21 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2001-10-21 00:00:00Z",
+        "HomeTeam": "Piacenza",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-10-21 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-10-21 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Perugia",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-10-21 00:00:00Z",
+        "HomeTeam": "Venezia",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-10-27 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-10-27 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-10-28 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Venezia",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2001-10-28 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-10-28 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2001-10-28 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-10-28 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Hellas Verona",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2001-10-28 00:00:00Z",
+        "HomeTeam": "Perugia",
+        "AwayTeam": "Piacenza",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-10-28 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2001-03-11 00:00:00Z",
+        "HomeTeam": "Venezia",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-04-11 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-04-11 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2001-04-11 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-04-11 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-04-11 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Perugia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-04-11 00:00:00Z",
+        "HomeTeam": "Piacenza",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2001-04-11 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-04-11 00:00:00Z",
+        "HomeTeam": "Hellas Verona",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2001-11-17 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-11-18 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Venezia",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-11-18 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-11-18 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-11-18 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-11-18 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Piacenza",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-11-18 00:00:00Z",
+        "HomeTeam": "Perugia",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-11-18 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2001-11-18 00:00:00Z",
+        "HomeTeam": "Hellas Verona",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2001-11-24 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-11-25 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2001-11-25 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-11-25 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Perugia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-11-25 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-11-25 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-11-25 00:00:00Z",
+        "HomeTeam": "Piacenza",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2001-11-25 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Hellas Verona",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-11-25 00:00:00Z",
+        "HomeTeam": "Venezia",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-01-12 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Perugia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-02-12 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2001-02-12 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-02-12 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Piacenza",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2001-02-12 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2001-02-12 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2001-02-12 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Venezia",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-02-12 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2001-02-12 00:00:00Z",
+        "HomeTeam": "Hellas Verona",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-08-12 00:00:00Z",
+        "HomeTeam": "Piacenza",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-09-12 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2001-09-12 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-09-12 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-09-12 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-09-12 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2001-09-12 00:00:00Z",
+        "HomeTeam": "Perugia",
+        "AwayTeam": "Venezia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-09-12 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2001-09-12 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Hellas Verona",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-12-15 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2001-12-16 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-12-16 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Perugia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-12-16 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-12-16 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Piacenza",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-12-16 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-12-16 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-12-16 00:00:00Z",
+        "HomeTeam": "Venezia",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-12-16 00:00:00Z",
+        "HomeTeam": "Hellas Verona",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-12-19 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-12-19 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-12-19 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-12-19 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Hellas Verona",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-12-19 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Perugia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2001-12-19 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-12-19 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-12-19 00:00:00Z",
+        "HomeTeam": "Venezia",
+        "AwayTeam": "Piacenza",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2001-12-22 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2001-12-22 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2001-12-23 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2001-12-23 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Hellas Verona",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2001-12-23 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-12-23 00:00:00Z",
+        "HomeTeam": "Perugia",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2001-12-23 00:00:00Z",
+        "HomeTeam": "Piacenza",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2001-12-23 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Venezia",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2001-12-23 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-05-01 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-06-01 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2002-06-01 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-06-01 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Perugia",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2002-06-01 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-06-01 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-06-01 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-06-01 00:00:00Z",
+        "HomeTeam": "Venezia",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2002-06-01 00:00:00Z",
+        "HomeTeam": "Hellas Verona",
+        "AwayTeam": "Piacenza",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-01-13 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2002-01-13 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2002-01-13 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-01-13 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-01-13 00:00:00Z",
+        "HomeTeam": "Perugia",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2002-01-13 00:00:00Z",
+        "HomeTeam": "Piacenza",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-01-13 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Hellas Verona",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2002-01-13 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-01-13 00:00:00Z",
+        "HomeTeam": "Venezia",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2002-01-19 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2002-01-20 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-01-20 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-01-20 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-01-20 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-01-20 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Perugia",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-01-20 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Piacenza",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-01-20 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-01-20 00:00:00Z",
+        "HomeTeam": "Hellas Verona",
+        "AwayTeam": "Venezia",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-01-26 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-01-27 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-01-27 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2002-01-27 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2002-01-27 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2002-01-27 00:00:00Z",
+        "HomeTeam": "Perugia",
+        "AwayTeam": "Hellas Verona",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-01-27 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Piacenza",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-01-27 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-01-27 00:00:00Z",
+        "HomeTeam": "Venezia",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-01-30 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-02-02 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-03-02 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Venezia",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-03-02 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2002-03-02 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2002-03-02 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-03-02 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-03-02 00:00:00Z",
+        "HomeTeam": "Piacenza",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2002-03-02 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Perugia",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-03-02 00:00:00Z",
+        "HomeTeam": "Hellas Verona",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-09-02 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2002-10-02 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-10-02 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-10-02 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Hellas Verona",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-10-02 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Perugia",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-10-02 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-10-02 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-10-02 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Piacenza",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-10-02 00:00:00Z",
+        "HomeTeam": "Venezia",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-02-16 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-02-16 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-02-17 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-02-17 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-02-17 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-02-17 00:00:00Z",
+        "HomeTeam": "Perugia",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-02-17 00:00:00Z",
+        "HomeTeam": "Piacenza",
+        "AwayTeam": "Venezia",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-02-17 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-02-17 00:00:00Z",
+        "HomeTeam": "Hellas Verona",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2002-02-23 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Perugia",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-02-24 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-02-24 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Hellas Verona",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-02-24 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-02-24 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2002-02-24 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2002-02-24 00:00:00Z",
+        "HomeTeam": "Piacenza",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2002-02-24 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2002-02-24 00:00:00Z",
+        "HomeTeam": "Venezia",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2002-03-03 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Piacenza",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2002-03-03 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-03-03 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Venezia",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2002-03-03 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-03-03 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-03-03 00:00:00Z",
+        "HomeTeam": "Perugia",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-03-03 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2002-03-03 00:00:00Z",
+        "HomeTeam": "Hellas Verona",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2002-09-03 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2002-10-03 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-10-03 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-10-03 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-10-03 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 5
+    },
+    {
+        "DateUtc": "2002-10-03 00:00:00Z",
+        "HomeTeam": "Piacenza",
+        "AwayTeam": "Perugia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-10-03 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2002-10-03 00:00:00Z",
+        "HomeTeam": "Venezia",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2002-10-03 00:00:00Z",
+        "HomeTeam": "Hellas Verona",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-03-13 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-03-16 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-03-17 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-03-17 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Venezia",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-03-17 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-03-17 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Hellas Verona",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-03-17 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2002-03-17 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-03-17 00:00:00Z",
+        "HomeTeam": "Perugia",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-03-17 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Piacenza",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-03-23 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-03-24 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2002-03-24 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Perugia",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-03-24 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Hellas Verona",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-03-24 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-03-24 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-03-24 00:00:00Z",
+        "HomeTeam": "Piacenza",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-03-24 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-03-24 00:00:00Z",
+        "HomeTeam": "Venezia",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-03-30 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Piacenza",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-03-30 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-03-30 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-03-30 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Venezia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-03-30 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-03-30 00:00:00Z",
+        "HomeTeam": "Perugia",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2002-03-30 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-03-30 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2002-03-30 00:00:00Z",
+        "HomeTeam": "Hellas Verona",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-06-04 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-07-04 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Hellas Verona",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-07-04 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-07-04 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2002-07-04 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-07-04 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-07-04 00:00:00Z",
+        "HomeTeam": "Perugia",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2002-07-04 00:00:00Z",
+        "HomeTeam": "Piacenza",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-07-04 00:00:00Z",
+        "HomeTeam": "Venezia",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2002-04-14 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-04-14 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Piacenza",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2002-04-14 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-04-14 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-04-14 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-04-14 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2002-04-14 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-04-14 00:00:00Z",
+        "HomeTeam": "Venezia",
+        "AwayTeam": "Perugia",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2002-04-14 00:00:00Z",
+        "HomeTeam": "Hellas Verona",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-04-21 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-04-21 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2002-04-21 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Hellas Verona",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2002-04-21 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-04-21 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-04-21 00:00:00Z",
+        "HomeTeam": "Perugia",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-04-21 00:00:00Z",
+        "HomeTeam": "Piacenza",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-04-21 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-04-21 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Venezia",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-04-28 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Perugia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-04-28 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-04-28 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2002-04-28 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Piacenza",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-04-28 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Brescia",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-04-28 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2002-04-28 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Chievoverona",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-04-28 00:00:00Z",
+        "HomeTeam": "Venezia",
+        "AwayTeam": "Torino",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-04-28 00:00:00Z",
+        "HomeTeam": "Hellas Verona",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2002-05-05 00:00:00Z",
+        "HomeTeam": "Brescia",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-05-05 00:00:00Z",
+        "HomeTeam": "Chievoverona",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-05-05 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2002-05-05 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-05-05 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Venezia",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-05-05 00:00:00Z",
+        "HomeTeam": "Perugia",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-05-05 00:00:00Z",
+        "HomeTeam": "Piacenza",
+        "AwayTeam": "Hellas Verona",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2002-05-05 00:00:00Z",
+        "HomeTeam": "Torino",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2002-05-05 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    }
+]
