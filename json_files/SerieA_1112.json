@@ -1,0 +1,2662 @@
+[
+    {
+        "DateUtc": "2011-09-09 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2011-09-10 00:00:00Z",
+        "HomeTeam": "Cesena",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2011-09-11 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-09-11 00:00:00Z",
+        "HomeTeam": "Chievo",
+        "AwayTeam": "Novara",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2011-09-11 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-09-11 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2011-09-11 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-09-11 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2011-09-11 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2011-09-11 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2011-09-17 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Novara",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-09-17 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-09-18 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-09-18 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2011-09-18 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Cesena",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-09-18 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2011-09-18 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-09-18 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Chievo",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-09-18 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-09-18 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-09-20 00:00:00Z",
+        "HomeTeam": "Novara",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-09-21 00:00:00Z",
+        "HomeTeam": "Cesena",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2011-09-21 00:00:00Z",
+        "HomeTeam": "Chievo",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-09-21 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-09-21 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-09-21 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-09-21 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2011-09-21 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-09-21 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2011-09-22 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-09-24 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2011-09-24 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Cesena",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-09-24 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-09-25 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Novara",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-09-25 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-09-25 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-09-25 00:00:00Z",
+        "HomeTeam": "Chievo",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-09-25 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-09-25 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-09-25 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-10-01 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2011-10-01 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-10-02 00:00:00Z",
+        "HomeTeam": "Cesena",
+        "AwayTeam": "Chievo",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-10-02 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2011-10-02 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-10-02 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2011-10-02 00:00:00Z",
+        "HomeTeam": "Novara",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2011-10-02 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-10-02 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-10-02 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-10-15 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-10-15 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-10-15 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2011-10-16 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-10-16 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-10-16 00:00:00Z",
+        "HomeTeam": "Cesena",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-10-16 00:00:00Z",
+        "HomeTeam": "Chievo",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-10-16 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-10-16 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-10-16 00:00:00Z",
+        "HomeTeam": "Novara",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2011-10-22 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2011-10-22 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2011-10-23 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2011-10-23 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-10-23 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Chievo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-10-23 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2011-10-23 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2011-10-23 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-10-23 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Cesena",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-10-23 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Novara",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-10-25 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-10-26 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-10-26 00:00:00Z",
+        "HomeTeam": "Cesena",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-10-26 00:00:00Z",
+        "HomeTeam": "Chievo",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-10-26 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-10-26 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-10-26 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-10-26 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-10-26 00:00:00Z",
+        "HomeTeam": "Novara",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-10-27 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-10-29 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-10-29 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2011-10-29 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2011-10-30 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-10-30 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2011-10-30 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-10-30 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Novara",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-10-30 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Cesena",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-10-30 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Chievo",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-10-30 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-11-05 00:00:00Z",
+        "HomeTeam": "Novara",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2011-11-05 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-11-06 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-11-06 00:00:00Z",
+        "HomeTeam": "Cesena",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-11-06 00:00:00Z",
+        "HomeTeam": "Chievo",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-11-06 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-11-06 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-11-06 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-11-19 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-11-19 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-11-19 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-11-20 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Cesena",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-11-20 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Chievo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2011-11-20 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Novara",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-11-20 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-11-20 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-11-20 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-11-20 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2011-11-25 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-11-26 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-11-26 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-11-26 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-11-26 00:00:00Z",
+        "HomeTeam": "Novara",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-11-27 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-11-27 00:00:00Z",
+        "HomeTeam": "Cesena",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-11-27 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Chievo",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-11-27 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-11-27 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-11-29 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2011-12-02 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2011-12-03 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-12-03 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2011-12-04 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-12-04 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-12-04 00:00:00Z",
+        "HomeTeam": "Chievo",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-12-04 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-12-04 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Cesena",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-12-04 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-12-05 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Novara",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-12-10 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-12-10 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2011-12-10 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Cesena",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-12-10 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2011-12-11 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-12-11 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2011-12-11 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-12-11 00:00:00Z",
+        "HomeTeam": "Novara",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-12-11 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Chievo",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-12-12 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-12-13 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-12-17 00:00:00Z",
+        "HomeTeam": "Chievo",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-12-17 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2011-12-17 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-12-18 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-12-18 00:00:00Z",
+        "HomeTeam": "Cesena",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-12-18 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-12-18 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Novara",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-12-18 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2011-12-18 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2011-12-18 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2011-12-20 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2011-12-20 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-12-21 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Cesena",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-12-21 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2011-12-21 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-12-21 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Chievo",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2011-12-21 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 6,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2011-12-21 00:00:00Z",
+        "HomeTeam": "Novara",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2011-12-21 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2011-12-21 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-01-07 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-01-07 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-01-08 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-01-08 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-01-08 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-01-08 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-01-08 00:00:00Z",
+        "HomeTeam": "Novara",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2012-01-08 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2012-01-08 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Chievo",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-01-08 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Cesena",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-01-15 00:00:00Z",
+        "HomeTeam": "Cesena",
+        "AwayTeam": "Novara",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-01-15 00:00:00Z",
+        "HomeTeam": "Chievo",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-01-15 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-01-15 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-01-15 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-01-15 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-01-15 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-01-15 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-01-16 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-01-21 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-01-21 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Cesena",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-01-22 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-01-22 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-01-22 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-01-22 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Chievo",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-01-22 00:00:00Z",
+        "HomeTeam": "Novara",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2012-01-22 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2012-01-22 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-01-22 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-01-28 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-01-28 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-01-29 00:00:00Z",
+        "HomeTeam": "Cesena",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-01-29 00:00:00Z",
+        "HomeTeam": "Chievo",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2012-01-29 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-01-29 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-01-29 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-01-29 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-01-29 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Novara",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-01-29 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-02-01 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-02-01 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2012-02-01 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-02-01 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Cesena",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-02-01 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-02-02 00:00:00Z",
+        "HomeTeam": "Novara",
+        "AwayTeam": "Chievo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-02-04 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-02-05 00:00:00Z",
+        "HomeTeam": "Chievo",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-02-05 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-02-05 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-02-05 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-02-05 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-02-05 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-02-05 00:00:00Z",
+        "HomeTeam": "Novara",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-02-05 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-02-08 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-02-09 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Cesena",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-02-11 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-02-11 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-02-12 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-02-12 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-02-12 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Novara",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-02-13 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Chievo",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-02-13 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-02-15 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-02-15 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-02-17 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2012-02-17 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2012-02-18 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-02-19 00:00:00Z",
+        "HomeTeam": "Cesena",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2012-02-19 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Chievo",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-02-19 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-02-19 00:00:00Z",
+        "HomeTeam": "Novara",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-02-19 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-02-19 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-02-19 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-02-21 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-02-22 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-02-25 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-02-25 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-02-26 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-02-26 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2012-02-26 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-02-26 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Novara",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-02-26 00:00:00Z",
+        "HomeTeam": "Chievo",
+        "AwayTeam": "Cesena",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-02-26 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-02-26 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-02-26 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-03-03 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Chievo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-03-03 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2012-03-04 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Novara",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-03-04 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Cesena",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-03-04 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-03-04 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-03-04 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-03-04 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-03-04 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-03-04 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-03-07 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-03-07 00:00:00Z",
+        "HomeTeam": "Cesena",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-03-07 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-03-09 00:00:00Z",
+        "HomeTeam": "Chievo",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-03-09 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 6,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2012-03-10 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-03-11 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-03-11 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-03-11 00:00:00Z",
+        "HomeTeam": "Cesena",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-03-11 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-03-11 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2012-03-11 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-03-11 00:00:00Z",
+        "HomeTeam": "Novara",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-03-17 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 5
+    },
+    {
+        "DateUtc": "2012-03-17 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-03-18 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Chievo",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-03-18 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Cesena",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-03-18 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-03-18 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-03-18 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-03-18 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Novara",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-03-18 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-03-19 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-03-24 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-03-24 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-03-25 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-03-25 00:00:00Z",
+        "HomeTeam": "Cesena",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-03-25 00:00:00Z",
+        "HomeTeam": "Chievo",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-03-25 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-03-25 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-03-25 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-03-25 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-03-25 00:00:00Z",
+        "HomeTeam": "Novara",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-03-31 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-03-31 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-04-01 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2012-04-01 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-04-01 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Chievo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-04-01 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2012-04-01 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-04-01 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Cesena",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-04-01 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Novara",
+        "HomeTeamScore": 5,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-04-01 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-04-07 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-04-07 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-04-07 00:00:00Z",
+        "HomeTeam": "Cesena",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-04-07 00:00:00Z",
+        "HomeTeam": "Chievo",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-04-07 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-04-07 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-04-07 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-04-07 00:00:00Z",
+        "HomeTeam": "Novara",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-04-07 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-04-07 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-04-10 00:00:00Z",
+        "HomeTeam": "Chievo",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-04-11 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-04-11 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-04-11 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Cesena",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-04-11 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-04-11 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-04-11 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2012-04-11 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Novara",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-04-11 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-04-12 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-04-21 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-04-21 00:00:00Z",
+        "HomeTeam": "Chievo",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-04-21 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Novara",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-04-21 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-04-22 00:00:00Z",
+        "HomeTeam": "Cesena",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-04-22 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-04-22 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2012-04-22 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-04-22 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-04-22 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-04-24 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Chievo",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-04-24 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-04-25 00:00:00Z",
+        "HomeTeam": "Cesena",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-04-25 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-04-25 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-04-25 00:00:00Z",
+        "HomeTeam": "Novara",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-04-25 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-04-25 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-04-25 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-04-25 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2012-04-28 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Chievo",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-04-28 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-04-28 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-04-29 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-04-29 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-04-29 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Cesena",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-04-29 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-04-29 00:00:00Z",
+        "HomeTeam": "Novara",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2012-04-29 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2012-04-29 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-05-01 00:00:00Z",
+        "HomeTeam": "Chievo",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-05-01 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-05-02 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-05-02 00:00:00Z",
+        "HomeTeam": "Cesena",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-05-02 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Novara",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-05-02 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-05-02 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-05-02 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-05-02 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-05-02 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-05-05 00:00:00Z",
+        "HomeTeam": "Lecce",
+        "AwayTeam": "Fiorentina",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-05-05 00:00:00Z",
+        "HomeTeam": "Roma",
+        "AwayTeam": "Catania",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-05-06 00:00:00Z",
+        "HomeTeam": "Atalanta",
+        "AwayTeam": "Lazio",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-05-06 00:00:00Z",
+        "HomeTeam": "Bologna",
+        "AwayTeam": "Napoli",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-05-06 00:00:00Z",
+        "HomeTeam": "Cagliari",
+        "AwayTeam": "Juventus",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-05-06 00:00:00Z",
+        "HomeTeam": "Inter",
+        "AwayTeam": "Milan",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-05-06 00:00:00Z",
+        "HomeTeam": "Novara",
+        "AwayTeam": "Cesena",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-05-06 00:00:00Z",
+        "HomeTeam": "Palermo",
+        "AwayTeam": "Chievo",
+        "HomeTeamScore": 4,
+        "AwayTeamScore": 4
+    },
+    {
+        "DateUtc": "2012-05-06 00:00:00Z",
+        "HomeTeam": "Siena",
+        "AwayTeam": "Parma",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-05-06 00:00:00Z",
+        "HomeTeam": "Udinese",
+        "AwayTeam": "Genoa",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-05-13 00:00:00Z",
+        "HomeTeam": "Catania",
+        "AwayTeam": "Udinese",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 2
+    },
+    {
+        "DateUtc": "2012-05-13 00:00:00Z",
+        "HomeTeam": "Cesena",
+        "AwayTeam": "Roma",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 3
+    },
+    {
+        "DateUtc": "2012-05-13 00:00:00Z",
+        "HomeTeam": "Chievo",
+        "AwayTeam": "Lecce",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-05-13 00:00:00Z",
+        "HomeTeam": "Fiorentina",
+        "AwayTeam": "Cagliari",
+        "HomeTeamScore": 0,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-05-13 00:00:00Z",
+        "HomeTeam": "Genoa",
+        "AwayTeam": "Palermo",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 0
+    },
+    {
+        "DateUtc": "2012-05-13 00:00:00Z",
+        "HomeTeam": "Juventus",
+        "AwayTeam": "Atalanta",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-05-13 00:00:00Z",
+        "HomeTeam": "Lazio",
+        "AwayTeam": "Inter",
+        "HomeTeamScore": 3,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-05-13 00:00:00Z",
+        "HomeTeam": "Milan",
+        "AwayTeam": "Novara",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-05-13 00:00:00Z",
+        "HomeTeam": "Napoli",
+        "AwayTeam": "Siena",
+        "HomeTeamScore": 2,
+        "AwayTeamScore": 1
+    },
+    {
+        "DateUtc": "2012-05-13 00:00:00Z",
+        "HomeTeam": "Parma",
+        "AwayTeam": "Bologna",
+        "HomeTeamScore": 1,
+        "AwayTeamScore": 0
+    }
+]

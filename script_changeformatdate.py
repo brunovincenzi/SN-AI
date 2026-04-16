@@ -3,9 +3,7 @@ from datetime import datetime
 from pathlib import Path
 
 folders = [
-    Path("./json_files/train"),
-    Path("./json_files/eval"),
-    Path("./json_files/testing"),
+    Path("./json_files"),
 ]
 
 
