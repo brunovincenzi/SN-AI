@@ -8,8 +8,6 @@ The current model predicts one of three classes:
 - Draw
 - Away win
 
-The project no longer uses an RNN. The earlier RNN idea has been replaced by an MLP classifier trained on pre-match team-level features.
-
 ## Project Structure
 
 - `SN_AI.ipynb`: main notebook for loading data, building features, training the model, evaluating results, and printing readable predictions.
