@@ -9,30 +9,31 @@ folders = [
 
 def normalize_date(date_str: str) -> str:
     """
-    Converte una data da 'dd/mm/yy' a 'YYYY-MM-DD HH:MM:SSZ'.
-    Se è già nel formato corretto, la lascia invariata.
+    Convert a date to 'YYYY-MM-DD HH:MM:SSZ'.
+    Accepted input formats:
+    - 'YYYY-MM-DD HH:MM:SSZ'
+    - 'YYYY-MM-DD'
+    - 'dd/mm/yy'
     """
     if not date_str:
         return date_str
 
     date_str = date_str.strip()
 
-    # Già convertita
-    try:
-        dt = datetime.strptime(date_str, "%Y-%m-%d %H:%M:%SZ")
-        return dt.strftime("%Y-%m-%d %H:%M:%SZ")
-    except ValueError:
-        pass
+    accepted_formats = (
+        "%Y-%m-%d %H:%M:%SZ",
+        "%Y-%m-%d",
+        "%d/%m/%y",
+    )
 
-    # Formato originale corretto: giorno/mese/anno
-    try:
-        dt = datetime.strptime(date_str, "%d/%m/%y")
-        return dt.strftime("%Y-%m-%d %H:%M:%SZ")
-    except ValueError:
-        pass
+    for date_format in accepted_formats:
+        try:
+            dt = datetime.strptime(date_str, date_format)
+            return dt.strftime("%Y-%m-%d %H:%M:%SZ")
+        except ValueError:
+            pass
 
-    # Se arriva qui, il formato non è riconosciuto
-    raise ValueError(f"Formato data non riconosciuto: {date_str}")
+    raise ValueError(f"Unrecognized date format: {date_str}")
 
 
 for folder in folders:
