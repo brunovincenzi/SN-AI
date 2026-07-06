@@ -91,8 +91,6 @@ The model is an MLP with:
 
 The notebook sets random seeds for Python, NumPy, and PyTorch. Exact neural-network metrics may still vary across hardware, PyTorch builds, and CPU/GPU execution details.
 
-The JSON file iteration order is intentionally left unchanged in the notebook so the current behavior is preserved.
-
 ## Setup
 
 Install the pinned dependencies:
